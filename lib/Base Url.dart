@@ -1,0 +1,1 @@
+var LURL = "https://zambat.herokuapp.com";
